@@ -7,9 +7,8 @@ A Crop and Fertilizer Recommendation System using Machine Learning is designed t
 3.Usage  
 4.Dataset  
 5.Models and Algorithms  
-6.Results  
-7.License  
-8.Acknowledgments  
+6.Results   
+7.Acknowledgments  
 
 ## Features
 - Recommends the best crops to grow based on soil and weather conditions.  
@@ -61,9 +60,7 @@ To get a local copy up and running, follow these steps:
 - Push to the Branch:  
   git push origin feature/AmazingFeature  
   Open a Pull Request
- 
-## License  
-Distributed under the MIT License.  
+  
 ## Acknowledgments  
 - Mentors: A big thank you to our mentors for their guidance.  
 - Institutions: Edunet Foundation, AICTE, and Shell for supporting this internship program.  
